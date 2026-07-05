@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific
+
+knowledge_base.db-journal
+seed_data.py
+test_qa_system.py
+resource/
+test_reports/
